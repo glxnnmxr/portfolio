@@ -108,7 +108,7 @@ function Home() {
         <div className="hero-orb hero-orb-2"></div>
 
         <div className="hero-content">
-          <p className="hero-greeting">Hello, I'm a</p>
+          <p className="hero-greeting">Hello, I'm Glennmar Flores a</p>
           <h1 className="hero-title">
             <span className="typed-text">{displayText}</span>
             <span className="cursor">|</span>
