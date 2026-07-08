@@ -1,0 +1,12 @@
+{
+  "name": "mern-portfolio",
+  "version": "1.0.0",
+  "description": "A full-stack MERN portfolio website with black theme",
+  "private": true,
+  "devDependencies": {
+    "concurrently": "^10.0.3"
+  },
+  "dependencies": {
+    "nodemailer": "^9.0.3"
+  }
+}
