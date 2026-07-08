@@ -39,10 +39,10 @@ function Footer() {
               <a href="https://github.com/glxnnmxr" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
                 <FaGithub />
               </a>
-              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+              <a href="https://www.linkedin.com/in/glennmar-flores" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
                 <FaLinkedin />
               </a>
-              <a href="mailto:your.email@gmail.com" aria-label="Email">
+              <a href="https://mail.google.com/mail/?view=cm&fs=1&to=glennmarflores.dev@gmail.com" target="_blank" rel="noopener noreferrer" aria-label="Email">
                 <FaEnvelope />
               </a>
             </div>
