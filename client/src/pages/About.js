@@ -104,16 +104,16 @@ function About() {
           <div className="about-text reveal-left">
             <h3>Hello! I'm Glennmar Flores, a Full Stack Developer</h3>
             <p>
-              I'm passionate about building beautiful and functional web applications. 
-              With expertise in the MERN stack, I create scalable solutions that solve real-world problems.
+              I love building AI projects and learning new things about artificial intelligence.
+              I also build web and mobile applications that are useful, responsive, and easy to use.
             </p>
             <p>
-              My journey in web development started with a curiosity about how things work on the internet. 
-              Since then, I've worked on various projects ranging from simple websites to complex web applications.
+              My journey in development started with curiosity, and it has grown into a passion for creating
+              practical digital solutions. I enjoy turning ideas into clean, functional experiences that solve real problems.
             </p>
             <p>
-              I believe in writing clean, maintainable code and following best practices in every project. 
-              When I'm not coding, you can find me exploring new technologies or contributing to open-source projects.
+              I believe in writing clean, maintainable code and staying open to learning new technologies.
+              When I'm not coding, I’m usually exploring new tools, studying AI concepts, or improving my skills.
             </p>
           </div>
 
