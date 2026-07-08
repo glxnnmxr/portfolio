@@ -86,7 +86,7 @@ function Navbar() {
           <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="social-icon" aria-label="LinkedIn">
             <FaLinkedin />
           </a>
-          <a href="mailto:your.email@gmail.com" className="social-icon" aria-label="Email">
+          <a href="https://mail.google.com/mail/?view=cm&fs=1&to=glennmarflores.dev@gmail.com" target="_blank" rel="noopener noreferrer" className="social-icon" aria-label="Email">
             <FaEnvelope />
           </a>
         </div>
