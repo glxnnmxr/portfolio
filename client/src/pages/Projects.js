@@ -26,6 +26,22 @@ const projects = [
     github: 'https://github.com/glxnnmxr/Tracktrace.git',
    
   },
+  {
+    _id: '4',
+    title: 'BookIT riding Mobile app',
+    description: 'A riding mobile app let\'s user pick what kind of ride they want to take and book it with ease.',
+    technologies: ['Supabase', 'Flutter', 'Dart'],
+    github: 'https://github.com/glxnnmxr/BookIt-App.git',
+   
+  },
+  {
+    _id: '5',
+    title: 'Bank Checker Mobile App',
+    description: 'A bank in your pocket that lets you check your bank balance, check real currency rates, and check your recent bank transactions.',
+    technologies: ['Flutter', 'Dart'],
+    github: 'https://github.com/glxnnmxr/Banking-App.git',
+   
+  },
 ];
 
 function Projects() {
